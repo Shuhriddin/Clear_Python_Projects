@@ -1,0 +1,5 @@
+('Solixov', 'Muhiddin') - тел.номер: 8196473
+('Yakubova', 'Marhamat') - тел.номер: 5707665
+('Solixov', 'Mexriddin') - тел.номер: 6883253
+('Solixov', 'Shuxriddin') - тел.номер: 1125900
+('Solixova', 'Dilsora') - тел.номер: 545455
